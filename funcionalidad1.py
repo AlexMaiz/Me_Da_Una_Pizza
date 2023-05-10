@@ -14,7 +14,7 @@ def multiplicar(num1, num2):
 
 # Menú para que el usuario seleccione la operación
 print("Selecciona una operación:")
-print("1. Sumar")
+
 print("2. Restar")
 print("3. Multiplicar")
 
