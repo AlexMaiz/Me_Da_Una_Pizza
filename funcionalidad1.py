@@ -10,16 +10,14 @@ def restar(num1, num2):
 def multiplicar(num1, num2):
     return num1 * num2
 
-# Función para realizar la división
-def dividir(num1, num2):
-    return num1 / num2
+
 
 # Menú para que el usuario seleccione la operación
 print("Selecciona una operación:")
 print("1. Sumar")
 print("2. Restar")
 print("3. Multiplicar")
-print("4. Dividir")
+
 
 # Tomar entrada del usuario
 opcion = input("Ingresa la opción (1/2/3/4): ")
@@ -38,10 +36,8 @@ elif opcion == '2':
 elif opcion == '3':
     print(num1, "*", num2, "=", multiplicar(num1, num2))
 
-elif opcion == '4':
-    print(num1, "/", num2, "=", dividir(num1, num2))
 
 else:
     print("Opción inválida")
 
-    #:)
+    
