@@ -33,8 +33,7 @@ if opcion == '1':
 elif opcion == '2':
     print(num1, "-", num2, "=", restar(num1, num2))
 
-elif opcion == '3':
-    print(num1, "*", num2, "=", multiplicar(num1, num2))
+
 
 
 else:
