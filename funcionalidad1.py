@@ -37,7 +37,7 @@ num2 = int(input("Ingresa el segundo número: "))
 
 # Realizar la operación seleccionada por el usuario
 if opcion == '1':
-    print(num1, "+", num2, "=", sumar(num1, num2))
+    print(num1, "benja", num2, "=", sumar(num1, num2))
 
 
 elif opcion == '2':
