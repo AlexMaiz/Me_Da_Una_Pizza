@@ -3,6 +3,7 @@ def sumar(num1, num2):
     return num1 + num2
 
 
+
 # Función para realizar la resta
 def restar(num1, num2):
     return num1 - num2
@@ -55,3 +56,4 @@ elif opcion == '4':
 else:
     print("Opción inválida")
 
+print("Bryan Armando Cerda Valdes")
