@@ -56,4 +56,4 @@ elif opcion == '4':
 else:
     print("Opción inválida")
 
-print("Bryan Armando Cerda Valdes")
+print("Bryan Armando")
